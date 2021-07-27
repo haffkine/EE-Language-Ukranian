@@ -63,3 +63,10 @@ By making a contribution to this project, I certify that:
     personal information I submit with it, including my sign-off) is
     maintained indefinitely and may be redistributed consistent with
     this project or the open source license(s) involved.
+
+==================================================
+Ukranian Translation Pack for ExpressionEngine 1.x
+==================================================
+
+| EE-LU Haffike 1.1.x.f
+| EE-Language-Ukrainian fork 1.x for official GitHub account to version Haffkine1.1.x.1.f in my translation (ПН-PN)
